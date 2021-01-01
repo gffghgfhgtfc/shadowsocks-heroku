@@ -6,8 +6,8 @@
 
 ## 如果遇到问题
 1. 请先检查是否遵循步骤（再次阅读一遍教程）
-2. 请先自行通过Google/[Github](https://github.com/onplus/shadowsocks-heroku/search?utf8=%E2%9C%93&q=&type=)寻找答案
-3. 如果还没有解决，欢迎通过[ issue](https://github.com/onplus/shadowsocks-heroku/issues?q=is%3Aissue+is%3Aclosed+label%3Asolved) 提问（贴日志和配置的时候注意隐藏密码&个人ip）
+2. 请先自行通过Google/[Github](https://github.com/gffghgfhgtfc/shadowsocks-heroku/search?utf8=%E2%9C%93&q=&type=)寻找答案
+3. 如果还没有解决，欢迎通过[ issue](https://github.com/gffghgfhgtfc/shadowsocks-heroku/issues?q=is%3Aissue+is%3Aclosed+label%3Asolved) 提问（贴日志和配置的时候注意隐藏密码&个人ip）
 
 ## 准备
 
@@ -19,7 +19,7 @@ Heroku 提供免费账号，部分介绍如下：
 - https://devcenter.heroku.com/articles/limits
 - https://devcenter.heroku.com/articles/free-dyno-hours#usage
 
-注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/onplus/shadowsocks-heroku/issues/10)，[#14](https://github.com/onplus/shadowsocks-heroku/issues/14)）
+注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/gffghgfhgtfc/shadowsocks-heroku/issues/10)，[#14](https://github.com/gffghgfhgtfc/shadowsocks-heroku/issues/14)）
 
 ## 部署
 1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gffghgfhgtfc/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/gffghgfhgtfc/shadowsocks-heroku/tree/re)
